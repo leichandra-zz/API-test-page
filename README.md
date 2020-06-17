@@ -1,2 +1,2 @@
-# API-test-page
-This is a test page
+# Initial page
+
